@@ -3589,7 +3589,7 @@ me	mad	pos=n,g=,c=6,n=s
 sauhArdAt	sauhArda	pos=n,g=n,c=5,n=s
 vA	vA	pos=i
 vidhuraH	vidhura	pos=n,g=m,c=1,n=s
-iti	iti		pos=i
+iti	iti	pos=i
 vA	vA	pos=i
 mayi	mad	pos=n,g=,c=7,n=s
 anukroSa	anukroSa	pos=n,comp=y
